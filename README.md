@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hey, I'm Sarah 👋
+* I just graduated with my Master's degree in Computer Science from the University of Michigan 🎓
+* I'm interested in algorithms, full-stack development, and "tech for good"
+* 🌱 I’m currently learning about Astro and GitHub Pages. I plan to explore the Spotify API with Next.js and Tailwind next 🥳
+* 🤓 Learn more about me: [LinkedIn](www.linkedin.com/in/sarah-stec-07), [portfolio](https://sastec17.github.io/portfolio/)
+* 📫 How to reach me: sastec@umich.edu
 <!--
 **sastec17/sastec17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
