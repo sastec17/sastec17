@@ -1,5 +1,5 @@
 ## Hey, I'm Sarah 👋
-* I just graduated with my Master's degree in Computer Science from the University of Michigan 🎓
+* I'm a software engineer and adjunct lecturer at the University of Michigan - Go blue!
 * I'm interested in algorithms, full-stack development, and "tech for good"
 * 🌱 I’m currently learning about Astro and GitHub Pages. I plan to explore the Spotify API with Next.js and Tailwind next 🥳
 * 🤓 Learn more about me: [LinkedIn](www.linkedin.com/in/sarah-stec-07), [portfolio](https://sastec17.github.io/portfolio/)
